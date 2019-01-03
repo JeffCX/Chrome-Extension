@@ -42,10 +42,23 @@ Jaacsript
 
  chrome://extensions/
 
+https://developer.chrome.com/extensions
 https://developers.google.com/web/tools/chrome-devtools/
-
-
-
  chrome api reference
 
+ page action, need to use js to high the button
 
+ content js, use extensive in a particular web page! 
+
+ content js, popup js and lots of other script
+
+ config content js in manifest.json  
+
+https://developer.chrome.com/extensions/api_index
+
+debug chrome extensions, right click the icon
+debug option page, just debug it normally! 
+
+background paper: in developer tool page 
+
+deployment: chrome extension dashboard!
