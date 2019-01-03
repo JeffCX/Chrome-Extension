@@ -1,0 +1,51 @@
+Manifest 
+HTML 
+CSS 
+Jaacsript 
+ - .crx zipped file 
+ Chrome Web Store
+
+ Browser Action
+ Page Action
+
+ Information About the extension
+ JSON Format
+ Mandatory: Version, Name of the ext, version of the ext
+
+ icons:{
+     "128":"icon128.png",
+     "48":"icon48.png",
+     "16":"icon16.png"
+ }
+
+ browser_action:{
+     default_icon:"icon16.png",
+     default_popup:"popup.html"
+ }
+
+ chrome storage API
+
+ options 
+ notificaitons 
+
+ background 
+ background vs event pages 
+
+ background pages consume resoureces even when noot required 
+ stick to event pages 
+
+ ContextMenus 
+
+ context menus (mouse right click)
+
+ badges 
+
+ chrome://extensions/
+
+https://developers.google.com/web/tools/chrome-devtools/
+
+
+
+ chrome api reference
+
+
